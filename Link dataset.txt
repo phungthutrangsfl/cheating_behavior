@@ -1,0 +1,9 @@
+Dataset 1
+https://universe.roboflow.com/datatrain-lbott/exam-cheating-9iz1y
+
+https://universe.roboflow.com/omars-workspace-opfmx/graduation-project-jewvv
+
+https://universe.roboflow.com/rakshitha-beeranhalli-louuy/cheating-detection-wmju5
+
+Dataset 2
+https://app.roboflow.com/wangchinnt/cheating_detection_dataset_2/
