@@ -1,0 +1,17 @@
+# GUI Framework
+PyQt6==6.6.1
+
+# Computer Vision
+opencv-python==4.8.1.78
+Pillow==10.0.0
+
+# Deep Learning
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.195
+
+# Data Processing
+numpy==1.24.3
+
+# Utilities
+python-dotenv==1.0.0
