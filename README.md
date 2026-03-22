@@ -130,7 +130,15 @@ Người dùng có thể tham khảo hoặc chỉnh sửa mã nguồn để phá
 
 # 🎥 Video demo kết quả
 
-Video minh họa hoạt động của hệ thống có thể xem tại:
+<p align="center">
+  <img src="images/output1.gif" width="600px">
+</p>
+
+<p align="center">
+  <img src="images/output2.gif" width="600px">
+</p>
+
+Video minh họa hoạt động của hệ thống có thể xem [tại đây](https://drive.google.com/drive/folders/1I4nwahS337eaDhY-zkS3Zr5ZvX4tvLn9?usp=drive_link)
 
 
 Video demo bao gồm:
